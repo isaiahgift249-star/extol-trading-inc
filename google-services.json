@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "740243631041",
+    "project_id": "extol-trading-co",
+    "storage_bucket": "extol-trading-co.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740243631041:android:1a03bcaac7e23867ac9d40",
+        "android_client_info": {
+          "package_name": "Com.ExtolTrading.Co"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0T6e8daITWUzbUDLyjnyfdBxscZaGWNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
