@@ -1,0 +1,4 @@
+project-root/
+ ├── package.json   ✅ MUST BE HERE
+ ├── src/
+ ├── index.html
